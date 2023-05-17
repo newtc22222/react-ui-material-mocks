@@ -1,0 +1,48 @@
+{
+  "name": "ui-material-jv",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "11.10.6",
+    "@emotion/styled": "11.10.6",
+    "@mui/icons-material": "5.11.11",
+    "@mui/material": "5.11.15",
+    "@reduxjs/toolkit": "1.9.3",
+    "@splidejs/react-splide": "0.7.12",
+    "axios": "1.3.4",
+    "classnames": "2.3.2",
+    "js-cookie": "3.0.1",
+    "loader-utils": "3.2.1",
+    "lodash": "4.17.21",
+    "moment": "2.29.4",
+    "msw": "1.2.1",
+    "notistack": "3.0.1",
+    "react": "18.2.0",
+    "react-bootstrap": "2.7.4",
+    "react-dom": "18.2.0",
+    "react-helmet-async": "1.3.0",
+    "react-redux": "8.0.5",
+    "react-router-dom": "6.10.0",
+    "react-scripts": "5.0.1",
+    "react-select": "5.7.2",
+    "redux": "4.2.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
